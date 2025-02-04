@@ -8,6 +8,8 @@ import Criteria from './components/Criteria'
 import ProblemStatements from './components/ProblemStatements'
 import HackathonRules from './components/HackathonRules'
 import Prizes from './components/Prizes'
+import Partners from './components/Partners'
+import FAQ from './components/FAQ'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -19,6 +21,8 @@ function App() {
       <ProblemStatements/>
       <HackathonRules/>
       <Prizes/>
+      <Partners/>
+      <FAQ/>
     </div>
   )
 }
