@@ -17,7 +17,7 @@ const Prizes = () => {
   const prizes = [
     { place: "1st", amount: 25000, color: "text-purple-600" },
     { place: "2nd", amount: 15000, color: "text-purple-500" },
-    { place: "3rd", amount: 10000, color: "text-purple-400" }
+    { place: "3rd", amount: 10000, color: "text-purple-400" },
   ]
 
   return (
