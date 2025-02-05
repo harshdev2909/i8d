@@ -74,7 +74,7 @@ const Partners = () => {
           {/* Registration CTA */}
           <div className="text-center">
             <h3 className="text-2xl text-purple-600 font-medium">
-              Register Now And Take The First Step Toward A Transformative Tech Journey!
+              Register Now And Take The First Step Toward A Transformative Tech Journey
             </h3>
           </div>
         </div>
