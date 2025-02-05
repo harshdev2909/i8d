@@ -85,7 +85,7 @@ const FAQ = () => {
     {
       question: "14. When Is The Hackathon Finals?",
       answer: "The exact date will be communicated to all selected teams."
-    }
+    },
   ]
 
   return (
