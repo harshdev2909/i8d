@@ -55,7 +55,7 @@ const ProblemStatements = () => {
     {
       title: "Open Innovation – AI for Real-World Impact (New Broad Problem Statement)",
       description: "AI has limitless potential to solve real-world challenges across various domains. This open-ended challenge allows participants to identify a social or environmental issue of their choice and propose an AI-powered solution."
-    },
+    }
   ]
 
   return (
